@@ -1,0 +1,6 @@
+[tool.black]
+line-length = 100 # 88 or any value you prefer
+
+[build-system]
+requires = ["setuptools", "wheel", "jupyter", "jupytext"]
+build-backend = "setuptools.build_meta"

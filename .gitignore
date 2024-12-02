@@ -1,0 +1,4 @@
+/src/folder_A/__pycache__/
+/src/folder_A/sub_folder_in_folder_A/__pycache__/
+/src/folder_B/__pycache__/
+/src/folder_B/sub_folder_in_folder_B/__pycache__/
